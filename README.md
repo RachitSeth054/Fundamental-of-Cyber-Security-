@@ -23,3 +23,12 @@ This repository contains lab experiments, documentation, codes, and execution sc
 - **OS**: Windows / Kali Linux
 - **Tools**: Wireshark, THC-Hydra, Google Dorking operators
 - **Subjects**: Cryptography, Network Analysis, Information Gathering, Penetration Testing
+
+
+
+---
+
+## Maintained By
+
+- **GitHub:** RachitSeth054
+- **Project:** Fundamental of Cyber Security (COM-311)
