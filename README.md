@@ -1,6 +1,6 @@
 # Fundamental of Cyber Security (COM-311)
 
-This repository contains lab experiments, documentation, codes, and execution screenshots for **Fundamental of Cyber Security (COM-311)**.
+This repository contains lab experiments, documentation, source codes, practical procedures, and execution screenshots for **Fundamental of Cyber Security (COM-311)**.
 
 ---
 
@@ -16,19 +16,34 @@ This repository contains lab experiments, documentation, codes, and execution sc
 | **Experiment 6** | Network Scanning & Security Assessment | Execution Guide & Screenshots |
 | **Experiment 7** | System & Network Vulnerability Analysis | Notes & Execution Screenshots |
 | **Experiment 8** | Practical Security & Exploitation Demonstrations | Notes & Execution Screenshots |
+| **Experiment 9** | Analyze Instagram Traffic and Study Cookies | Practical Notes & Screenshots |
+| **Experiment 10** | Implement a Basic Keylogger in C | C Source Code & Execution Screenshots |
+| **Experiment 11** | Detect and Prevent Phishing Attacks Using GoPhish | Configuration Guide & Execution Screenshots |
+| **Experiment 12** | Configuration of Next-Generation Firewall Using pfSense | Setup Guide & Configuration Screenshots |
 
 ---
 
 ## 💻 Tech Stack & Tools
-- **OS**: Windows / Kali Linux
-- **Tools**: Wireshark, THC-Hydra, Google Dorking operators
-- **Subjects**: Cryptography, Network Analysis, Information Gathering, Penetration Testing
 
+- **Operating Systems:** Windows / Kali Linux
+- **Tools:** Wireshark, THC-Hydra, Google Dorking Operators, GoPhish, pfSense
+- **Programming Languages:** C
+- **Subjects:** Cryptography, Network Analysis, Information Gathering, Penetration Testing, Vulnerability Assessment, Web Security, and Network Security.
 
+---
+
+## 🎯 Project Objectives
+
+- Understand fundamental cybersecurity concepts.
+- Explore network traffic and security analysis.
+- Study cryptographic techniques and encryption algorithms.
+- Learn about common cyber threats and their prevention.
+- Perform practical security assessments in authorized environments.
+- Understand firewall configuration and network protection.
 
 ---
 
 ## Maintained By
 
-- **GitHub:** RachitSeth054
+- **GitHub:** [RachitSeth054](https://github.com/RachitSeth054)
 - **Project:** Fundamental of Cyber Security (COM-311)
